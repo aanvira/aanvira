@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there!
-# I'm currently getting a Bachelor's degree in Human Systems Engineering from ASU. I enjoy programming, and have learned the basics of different languages such as Python, R, Java, HTML, and CSS.
+# Hey there!
+I'm currently getting a Bachelor's degree in Human Systems Engineering from ASU. I enjoy programming, and have learned the basics of different languages such as Python, R, Java, HTML, and CSS.
 
-[** My CodePen: **](https://codepen.io/your-work/)
-[** My LinkedIn **](https://www.linkedin.com/in/aanvi-raghuvanshi-553469224/)
+**[My CodePen:](https://codepen.io/your-work/)**
+
+**[My LinkedIn](https://www.linkedin.com/in/aanvi-raghuvanshi-553469224/)**
 
 ![sparkles](https://gifdb.com/images/high/pixelated-yellow-sparkle-vcp8qmc4cg6q2pif.gif)
